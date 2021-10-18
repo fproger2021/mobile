@@ -1,0 +1,19 @@
+body{
+    background:#E5E5E5;
+    font-size: 16px;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+}
+
+.header h1{
+    font-size: 14px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+.catalog{
+    background-image: url(../img/bgc.jpg) no-repeat;
+}
