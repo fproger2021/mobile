@@ -15,5 +15,10 @@ body{
 }
 
 .catalog{
-    background-image: url(../img/bgc.jpg) no-repeat;
+    width: 40%;
+    background-image: url(../img/bgc.jpg);
+}
+
+.catalog img{
+    align-items: center;
 }
